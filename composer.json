@@ -1,0 +1,15 @@
+{
+    "name": "rodrigo/infodownload",
+    "autoload": {
+        "psr-4": {
+            "src\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "RodrigoFroes",
+            "email": "craftland262@gmail.com"
+        }
+    ],
+    "require": {}
+}
